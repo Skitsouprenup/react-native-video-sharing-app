@@ -16,7 +16,7 @@ web-build/
 *.key
 *.mobileprovision
 
-app/lib/appwriteConfig
+lib/appwriteConfig.js
 
 # Metro
 .metro-health-check*
